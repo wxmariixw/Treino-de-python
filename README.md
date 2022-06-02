@@ -7,8 +7,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/wxmariixw/Treino-de-python?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/wxmariixw/Treino-de-python?style=for-the-badge)
 
-Durante o primeiro semestre da faculdade de Análise e Desenvolvimento de Sistemas a linguagem que começamos a aprender foi Python, linguagem qual me identifiquei fortemente. Com isso achei melhor treinar o máximo possível e encontrei os exercicios da Wiki Python Brasil, que estão me ajudando a evoluir neste desafio.
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+> Durante o primeiro semestre da faculdade de Análise e Desenvolvimento de Sistemas a linguagem que começamos a aprender foi Python, linguagem qual me identifiquei fortemente. Com isso achei melhor treinar o máximo possível e encontrei os exercicios da Wiki Python Brasil, que estão me ajudando a evoluir neste desafio.
 
 ### Ajustes e melhorias
 
@@ -31,7 +30,7 @@ Caso queira me acompanhar nessa jornada, verifique se você atendeu aos seguinte
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
 * Você instalou a versão mais recente de `<Python 3>`
 * Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-* Você está aprendendp `<Python>`.
+* Você está aprendendo `<Python>`.
 
 ## 📫 Contribuindo para <Treinamento_de_Python>
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
